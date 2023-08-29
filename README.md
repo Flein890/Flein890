@@ -22,7 +22,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="www.linkedin.com/in/franco-villanova-07708a288"><img src="https://img.shields.io/badge/-Franco%20Villanova-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/franco-villanova-07708a288"><img src="https://img.shields.io/badge/-Franco%20Villanova-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:franco.s.villanova570@hotmail.com"><img src="https://img.shields.io/badge/-franco.s.villanova570@outlook.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/francock777"><img src="https://img.shields.io/badge/-francock777-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
