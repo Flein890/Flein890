@@ -2,7 +2,7 @@
 
 <h1 align="center">I am Franco Villanova</h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a FullStack Developer</p>
+<p align="center" width="150px">Junior Full-Stack Developer</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BFlein890%7D/count.svg" alt="visitor badge"/></p>
